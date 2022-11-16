@@ -1,0 +1,2 @@
+# FastVPN
+Fast
